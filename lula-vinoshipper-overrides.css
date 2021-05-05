@@ -1,4 +1,4 @@
-/* resets */
+/* resets 
 
 .wine-card-wrapper {
 	width: 100%;
@@ -13,12 +13,13 @@
 	float: none;
 }
 
+*/
 
 
-/* "OLD ATTEMPT"
+/* basic attempt */
 <style>
     div {
       background-color: #92d394;
       }
     </style>
-*/
+
