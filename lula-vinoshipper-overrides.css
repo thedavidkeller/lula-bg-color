@@ -1,0 +1,38 @@
+/* resets */
+
+.wine-card-wrapper .shipping-states,
+.container-club-signup > div > div:first-child .page-header  {
+	display: none !important;
+}
+
+.wine-card-wrapper {
+	width: 100%;
+	margin: 0;
+}
+
+.shipping-states-footer {
+	margin-top:0;
+}
+
+.wine-card-wrapper .wine-card {
+	display: flex;
+	align-items: stretch;
+	flex-flow: row wrap;
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 32px 0;
+	color: #92d394;
+}
+.wine-card-wrapper .wine-card > div {
+	float: none;
+}
+
+
+
+/* "OLD ATTEMPT"
+<style>
+    div {
+      background-color: #92d394;
+      }
+    </style>
+*/
