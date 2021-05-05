@@ -1,22 +1,4 @@
-/* resets 
 
-.wine-card-wrapper {
-	width: 100%;
-	margin: 0;
-}
-
-.wine-card-wrapper .wine-card {
-	display: flex;
-	background-color: #92d394;
-}
-.wine-card-wrapper .wine-card > div {
-	float: none;
-}
-
-*/
-
-
-/* basic attempt */
 <style>
     div {
       background-color: #92d394;
