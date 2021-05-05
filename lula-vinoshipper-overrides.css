@@ -7,7 +7,7 @@
 
 .wine-card-wrapper .wine-card {
 	display: flex;
-	color: #92d394;
+	background-color: #92d394;
 }
 .wine-card-wrapper .wine-card > div {
 	float: none;
